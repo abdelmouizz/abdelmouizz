@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=abdelmouizz&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F56641654%3Fu%3Dd72ecbc175180cdf93d3ab20c8ce4a015fb296c3%26v%3D4" alt="abdelmouizz hero visual" />
 </p>
 
-<p align="center"><b>Abdelmouiz</b> · Frontend or full-stack engineer<br/><sub>I don't know which decision i made that lead me to coding but here i am ...</sub></p>
+<p align="center"><b>Abdelmouiz</b> · Self-taught Frontend Dev <br/><sub>I don't know which decision i made that lead me to coding but here i am ...</sub></p>
 
 <p align="center"><a href="https://github.com/abdelmouizz">GitHub</a></p>
 
